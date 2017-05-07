@@ -6,3 +6,4 @@
 - Optimized size for mincrocontrollers
 ## Example:
 [Simple Todo list](https://jsfiddle.net/muztv/9bxw9cbr/)
+[Multi page](https://jsfiddle.net/muztv/vtzscwtv/)
