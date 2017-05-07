@@ -68,7 +68,7 @@ K.a = function(node, component, path) {
 
   node = node || K.node;
   component = component || K.root;
-  path = path || '0.';
+  path = path || '.';
   var name = component.n;
   var props = component.p;
   var childs = component.c;
