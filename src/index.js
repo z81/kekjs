@@ -16,7 +16,7 @@ K.r = [];
  * @param props
  */
 K.d = function(name, props) {
-  return {n: name, p: props, c: Array.prototype.slice.call(arguments, 2)};
+  return {n: name, p: props, c: K.r.slice.call(arguments, 2)};
 };
 
 /**
