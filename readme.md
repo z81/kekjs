@@ -2,7 +2,7 @@
 - Minfied: 760 bytes
 - Gzipped: 452 bytes
 - JSX supported
-- No virtual DOM
+- Virtual DOM
 - Optimized size for mincrocontrollers
 
 ## Example:
